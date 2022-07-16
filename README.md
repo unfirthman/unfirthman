@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @unfirthman
-- 👀 I’m interested in contributing frequently
+# Hi there
+## I like modular synthesizers and contributing to open source projects
+
+
+
+
+
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything that needs collaborating. I am a musician, so anything music related is currently high on my list.
 - 📫 How to reach me unfirthman @ gmail
