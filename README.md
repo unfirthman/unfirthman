@@ -5,5 +5,4 @@
 
 
 
-- 🌱 I’m currently learning Python
 - 📫 How to reach me unfirthman @ gmail
