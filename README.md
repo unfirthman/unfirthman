@@ -7,7 +7,7 @@ Secretly (not so secret) I love Python and would love an excuse to use it more.
 
 ## NEOVIM ENTHUSIAST
 
-I love configuring my NEOVIM setup. I work in Lua when configuring my environment.
+I work in NEOVIM and habitually try to improve my setup. I work in Lua when configuring my environment.
 
 
 
