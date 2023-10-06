@@ -1,9 +1,7 @@
 # Hi there
 ## I love contributing to open source projects!
 
-I work in JavaScript and React.
-
-Secretly (not so secret) I love Python and would love an excuse to use it more.
+I work in Javascript, Python, React, and shell scripts
 
 ## NEOVIM ENTHUSIAST
 
